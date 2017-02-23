@@ -1,4 +1,4 @@
-# compilation
+# Compilation
 
 This is my first trial of how to:
 Create an open source repository,
